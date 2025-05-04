@@ -1,1 +1,2 @@
-# Python_Basics
+# Python Basics
+*My Python Journey.*
